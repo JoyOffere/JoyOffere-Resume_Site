@@ -195,6 +195,14 @@ span{
     font-size: 1.6rem;
     margin: 2rem 0 1rem;
 }
+.services{
+    display: flex;
+    gap: 20px;
+}
+.services-box{
+    max-width: 33.3%;
+    margin-top: 70px;
+}
 
 .services h2{
     margin-bottom: 5rem;
