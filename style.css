@@ -198,6 +198,7 @@ span{
 .services{
     display: flex;
     gap: 20px;
+    margin-top: auto;
 }
 .services-box{
     max-width: 33.3%;
@@ -206,6 +207,7 @@ span{
 
 .services h2{
     margin-bottom: 5rem;
+    text-align:
 }
 
 .services-container{
@@ -227,7 +229,7 @@ span{
 }
 
 .services-container .services-box:hover{
-    border-color: var(--main-color);
+    border-color: var(--second-bg-color);
     transform: scale(1.02);
 }
 
@@ -375,6 +377,7 @@ span{
 
 .footer-text p{
     font-size: 1.6rem;
+    font-color:var(--text-color);
 }
 
 .footer-iconTop a{
