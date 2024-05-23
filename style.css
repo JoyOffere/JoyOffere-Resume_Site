@@ -13,7 +13,7 @@
  
 :root{
     --bg-color:white;
-    --second-bg-color: #666968;
+    --second-bg-color: whitesmoke;
     --text-color:black;
     --main-color:rgb(29, 28, 29);
 }
@@ -396,7 +396,7 @@ span{
 
 .footer-iconTop a i{
     font-size: 2.4rem;
-    color: var(--second-bg-color);
+    color: var(--second-bg-color); 
 }
 
 /* BREAKPOINTS */
